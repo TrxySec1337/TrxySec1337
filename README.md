@@ -28,7 +28,7 @@
  <div>I'm not responsible for what you guys do using my tools!</div>
  <b>I Hope You Enjoy My Tools</b>
  <br>
- <b>My Telegram Channel : <a href="https://t.me/trxysec1337">https://t.me/trxysec1337</a></b>
+ <b>My Telegram Account : <a href="https://t.me/trxysec1337">https://t.me/trxysec1337</a></b>
 </samp>
 </div><div align="center">
  <samp><h1>My Tech Stack</h1></samp>
